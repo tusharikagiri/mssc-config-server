@@ -1,4 +1,4 @@
-package guru.sfg.brewery.mssc_config_server;
+package guru.sfg.brewery.configserver;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
